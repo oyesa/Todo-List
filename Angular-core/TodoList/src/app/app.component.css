@@ -3,3 +3,20 @@
 .done{
   text-decoration: line-through;
 }
+
+.container{
+  background-image: url(https://images.unsplash.com/photo-1649266882416-51f52eb37fdd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3M3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 150px 100px;
+}
+
+.form-control{
+  font-size: 16px;
+  box-sizing: border-box;
+  width: 60%;
+}
+
+.listInput{
+  color: white;
+}
